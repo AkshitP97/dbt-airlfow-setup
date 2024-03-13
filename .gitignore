@@ -1,0 +1,5 @@
+venv
+*.sql
+*.py
+logs
+dbt_airflow_project/.user.yml
